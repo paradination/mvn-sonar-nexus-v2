@@ -5,7 +5,7 @@
 - https://github.com/paradination/mvn-sonar-nexus-v2/blob/main/maven-nexus-sonarqube-jenkins-install/maven-install.md
 
 ## Install SonarQube
-- hhttps://github.com/paradination/mvn-sonar-nexus-v2/blob/main/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
+- https://github.com/paradination/mvn-sonar-nexus-v2/blob/main/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
 
 ## Configure Nexus Repository 
 
