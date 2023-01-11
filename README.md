@@ -1,11 +1,11 @@
 ## Install Nexus Repository Manager
-- https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/nexus-install.sh
+- https://github.com/paradination/mvn-sonar-nexus-v2/blob/main/maven-nexus-sonarqube-jenkins-install/nexus-install.sh
 
 ## Install Apache Maven
-- https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/maven-install.md
+- https://github.com/paradination/mvn-sonar-nexus-v2/blob/main/maven-nexus-sonarqube-jenkins-install/maven-install.md
 
 ## Install SonarQube
-- https://github.com/awanmbandi/eagles-batch-devops-projects/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
+- hhttps://github.com/paradination/mvn-sonar-nexus-v2/blob/main/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
 
 ## Configure Nexus Repository 
 
@@ -44,4 +44,4 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 mvn sonar:sonar \
   -Dsonar.projectKey=java-app-project \
   -Dsonar.host.url=http://3.95.208.53:9000 \
-  -Dsonar.login=b2b203e985c0a76d0e1ab30b524a98fd345c29b3
+  -Dsonar.login=b2b203e985c0a76d0e1ab30b524a98fd345c29b3cd 
